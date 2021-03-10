@@ -8,16 +8,16 @@ class Player
     public:
 
     void (int music);
-    void chanter(Player &cible);
+    void chanter(Player cible);
     void PuissanceDeChant(int quantitePuissance);
     void changerInstrument(std::string nomNouvelInstrument, int PuissanceNouvelInstrument);
-    bool estVivant();
+    bool Joue();
 
     private:
 
     int m_scoreVie;
     int m_puissance;
-    int 
+    int m_quantitePuissance
     std::string m_nomInstrument 
 };
 
