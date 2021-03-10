@@ -1,0 +1,4 @@
+Exercice C 
+
+
+  Pour ajouter ou supprimer une chanson il faudrais implanté une fonction permettant d'allez à une bibliotheque musical 
