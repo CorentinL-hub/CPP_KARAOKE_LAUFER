@@ -32,5 +32,5 @@ void Player::changerInstrument(string nomNouvelInstrument, int degatsNouvelInstr
 
 bool Player::Joue()
 {
-    return m_scoreVie > 0;
+    return m_scoreVie > 50;
 }
