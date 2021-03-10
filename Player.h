@@ -11,13 +11,14 @@ class Player
     void chanter(Player &cible);
     void PuissanceDeChant(int quantitePuissance);
     void changerInstrument(std::string nomNouvelInstrument, int PuissanceNouvelInstrument);
-    
+    bool estVivant();
 
     private:
 
     int m_scoreVie;
     int m_puissance;
-    std::string m_nomMusic
+    int 
+    std::string m_nomInstrument 
 };
 
 #endif
