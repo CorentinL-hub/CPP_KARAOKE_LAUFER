@@ -1,5 +1,0 @@
-zeri
-
-(-ryrtyr 
-eeeeeeeeee
-eeeeeeeeee)
